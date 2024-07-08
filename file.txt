@@ -1,2 +1,3 @@
 this is file use for merge conflict scenario
 first bug is fixed!
+second bug is fixed!
