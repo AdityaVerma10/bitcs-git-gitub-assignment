@@ -1,2 +1,3 @@
-this is file use for merge conflict scenario
+this is file use for merge conflict scenario when both branch working on same file.
 first bug is fixed!
+second bug is fixed!
